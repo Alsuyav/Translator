@@ -1,0 +1,8 @@
+C:\Users\rusla\Desktop\Тяпляп\CopyLab2\Debug\CopyLab2.vcxproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\Тяпляп\CopyLab2\Debug\CopyLab2.exe
+C:\Users\rusla\Desktop\Тяпляп\CopyLab2\Debug\CopyLab2.MyForm.resources
+C:\Users\rusla\Desktop\Тяпляп\CopyLab2\Debug\CopyLab2.vcxproj.GenerateResource.cache
+C:\Users\alsuy\Desktop\Самый верный вариант с хэшем и модулями\CopyLab2\Debug\CopyLab2.vcxproj.AssemblyReference.cache
+C:\Users\alsuy\Desktop\Самый верный вариант с хэшем и модулями\CopyLab2\Debug\CopyLab2.MyForm.resources
+C:\Users\alsuy\Desktop\Самый верный вариант с хэшем и модулями\CopyLab2\Debug\CopyLab2.vcxproj.GenerateResource.cache
+C:\Users\alsuy\Desktop\Самый верный вариант с хэшем и модулями\CopyLab2\Debug\CopyLab2.exe
